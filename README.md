@@ -9,3 +9,8 @@ Features:
 Technologies:
 -Python
 
+## How to Run 
+1. Open the file
+2. Run the program
+3. Follow menu options 
+

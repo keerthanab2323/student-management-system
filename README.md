@@ -1,2 +1,11 @@
 # student-management-system
-My first project - Student management system using python
+This is my first project.
+
+Features:
+- Add student
+- View students
+- Delete student
+
+Technologies:
+-Python
+
